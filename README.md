@@ -1,4 +1,10 @@
 # ESTO ES UN DOCUMENTO DE PRACTICA
+
+## API REST
+![API REST](https://miro.medium.com/v2/resize:fit:720/format:webp/1*J3G3akaMpUOLegw0p0qthA.png)
+
+
+
 ## Proyecto:
 Hemos encontrado una API publica, llamada [meteo](https://open-meteo.com/) , que nos da informacion meteorologica a tiempo real con un archivo con formato JSON.
 
