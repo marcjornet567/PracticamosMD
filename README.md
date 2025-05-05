@@ -32,4 +32,5 @@ with urllib.request.urlopen(url_tiempo) as datos:
 print("Temperatura en Asturias: ", parseado["current_weather"]["temperature"])
 print("Viento en Asturias: ", parseado["current_weather"]["windspeed"])
 print("Humedad: ", parseado["hourly"]["relativehumidity_2m"])
+
 ``
