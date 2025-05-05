@@ -4,9 +4,9 @@ Hemos encontrado una API publica, llamada meteo[https://open-meteo.com/] , que n
 
 ## Sitios
 ### Yo he escojido
-- Barcelona
-- Madrid
-- Asturias
+- **Barcelona**
+- **Madrid**
+- **Asturias**
 
 ## Codigo en python
 Con esto ya planteado, hemos hecho los codigos con cada localizacion.
